@@ -3,8 +3,11 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. 
 
 Table Of Content:
 1-Alert
+
 2-Variables For string
+
 3-Variables For Numbers 
+
 4-Variables Names Legal And Illegal
 5-Math Expresasion: Familiar Operators
 6-Math Expression: Unfamiliar Opereators
